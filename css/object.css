@@ -1,0 +1,90 @@
+/* ------------- TITLE ------------- */
+.material-icons {
+  font-size: 0px;
+  font-size: 12px;
+  margin-left: 4px;
+}
+.h6 {
+  color: #e2574c;
+}
+.h2 {
+  font-weight: 300;
+  color: #3C3C3C;
+}
+.h2 span {
+  font-weight: 500;
+}
+/* ------------- /TITLE ------------- */
+
+/* ------------- SLIDE ------------- */
+.carousel-control-next, .carousel-control-prev {
+  top: 105% !important;
+  color: #e2574c;
+  opacity: 1;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+.carousel-control-next :hover {
+  color: #e2574c;
+}
+.carousel-control-prev :hover {
+  color: #e2574c;
+}
+/* ------------- /SLIDE ------------- */
+
+/* ------------- RELATED POSTS ------------- */
+figcaption span {
+  font-size: 12px;
+  font-family: 'Playfair Display', serif;
+}
+h5 {
+  font-weight: 300;
+  font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+}
+h5 span {
+  font-weight: 500;
+}
+.send {
+    font-size: 12px;
+    border: 0px;
+    background-color: #e2574c;
+}
+.clear {
+    font-size: 12px;
+    border: none;
+    background-color: #f3f2f2;
+    color: #adadad;
+}
+.paragraph {
+  font-family: 'Playfair Display', serif;
+  font-size: 12px;
+  white-space: pre-line;
+  line-height: 1.8;
+}
+.btn-danger {
+  border: none;
+  font-size: 12px;
+  background-color: #e2574c;
+}
+.client__info p{
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: 300;
+  font-family: 'Playfair Display', serif;
+}
+.client__info p span {
+  font-weight: 700;
+}
+.category {
+  font-weight: 700;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+  text-transform: capitalize;
+}
+.category span {
+  color: #e2574c;
+}
+/* ------------- /RELATED POSTS ------------- */

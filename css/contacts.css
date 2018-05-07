@@ -1,0 +1,38 @@
+/* ------------- TITLE ------------- */
+.material-icons {
+  font-size: 0px;
+  font-size: 12px;
+  margin-left: 4px;
+}
+.h6 {
+  color: #e2574c;
+}
+.h2 {
+  font-weight: 300;
+  color: #3C3C3C;
+}
+.h2 span {
+  font-weight: 500;
+}
+/* ------------- /TITLE ------------- */
+
+
+/* ------------- ------------- */
+.contact__info p{
+  font-size: 12px;
+  margin-bottom: 8px;
+  font-family: 'Playfair Display', serif;
+  white-space: pre-line;
+}
+.send {
+    font-size: 12px;
+    border: 0px;
+    background-color: #e2574c;
+}
+.clear {
+    font-size: 12px;
+    border: none;
+    background-color: #f3f2f2;
+    color: #adadad;
+}
+/* ------------- / ------------- */

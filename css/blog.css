@@ -1,0 +1,60 @@
+/* ------------- ARCHITECTURE ------------- */
+.material-icons {
+  font-size: 0px;
+  font-size: 12px;
+  margin-left: 4px;
+}
+.h6 {
+  color: #e2574c;
+}
+.h2 {
+  font-weight: 300;
+  color: #3C3C3C;
+}
+.h2 span {
+  font-weight: 500;
+}
+.text {
+  font-family: 'Playfair Display', serif;
+  white-space: pre-line;
+  line-height: 1.5;
+}
+.date {
+  font-size: 10px;
+}
+.date span {
+  color: #e2574c;
+}
+.comments {
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  white-space: pre-line;
+}
+.conversation div {
+  background-color: #f6f6f6
+}
+.write {
+  font-size: 20px;
+}
+.view, figcaption{
+  font-size: 12px !important;
+}
+.view span, figcaption {
+  color: #2a8da6 !important;
+}
+.send {
+  font-size: 12px;
+  border: 0px;
+  background-color: #e2574c;
+}
+.clear {
+  font-size: 12px;
+  border: none;
+  background-color: #f3f2f2;
+  color: #adadad;
+}
+.aside__link {
+  text-transform: capitalize;
+  font-family: 'Raleway', sans-serif;
+}
+/* ------------- /ARCHITECTURE ------------- */
